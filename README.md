@@ -1,6 +1,6 @@
 # Sale Data Warehouse
 
-In this project, I created a data warehouse extract data from an OLTP database named Sakila using PostgreSQL
+In this project, I created a data warehouse to extract data from an OLTP database named Sakila using PostgreSQL
 
 ![alt text](https://github.com/xuanphu27010101/Sale_Data_Warehouse/blob/main/Figures/full_schema.png)
 
